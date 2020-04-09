@@ -5,11 +5,13 @@
 ## Online Java IDEs
 * [repl.it](https://repl.it)
 * [jDoodle](https://www.jdoodle.com/online-java-compiler/)
+* https://www.apluscompsci.com/
 
 ## Unplugged Activites
 * https://csunplugged.org/en/
 
 ## Cybersecurity
+* https://hackthissite.org
 * https://www.bankinfosecurity.com/botnet-army-just-100000-iot-devices-disrupted-dyn-a-9486
 * https://www.digitalattackmap.com/understanding-ddos/
 * https://threatmap.checkpoint.com/
