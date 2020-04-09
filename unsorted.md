@@ -26,4 +26,4 @@
 
 ## Sorting
 * [Sorting Dances](https://www.youtube.com/user/AlgoRythmics)
-* [Sorting Algorithms](toptal.com/developers/sorting-algorithms)
+* [Sorting Algorithms](https://toptal.com/developers/sorting-algorithms)
