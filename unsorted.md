@@ -1,11 +1,11 @@
 ## Online Curriculum
 * [Code.Org CS Principles](https://studio.code.org/courses/csp-2018)
 * [Code.Org CS Discoveries](https://studio.code.org/courses/csd-2019)
+* [A+ Computer Science](https://www.apluscompsci.com/)
 
 ## Online Java IDEs
 * [repl.it](https://repl.it)
 * [jDoodle](https://www.jdoodle.com/online-java-compiler/)
-* https://www.apluscompsci.com/
 
 ## Unplugged Activites
 * https://csunplugged.org/en/
