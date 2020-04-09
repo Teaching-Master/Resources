@@ -4,7 +4,7 @@
 * [A+ Computer Science](https://www.apluscompsci.com/)
 
 ## Online Java IDEs
-* [repl.it](https://repl.it)
+* [repl.it](https://repl.it) - online IDEs for a *lot* of langages including: Java, Python, JavaScript (with HTML and CSS), and of course C.
 * [jDoodle](https://www.jdoodle.com/online-java-compiler/)
 
 ## Unplugged Activites
